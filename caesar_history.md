@@ -21,4 +21,4 @@
 
 ## [Final Analysis](https://github.com/Evan-Mohan/Caesar-Cipher/blob/final-analysis/caesar_final_analysis.md)
 
-Create a fork of the project repo, all of your files should be named the first name of your cipher and then the purpose (caesar_history.md). Create links to the other 4 pages (the first page is historical context), make sure all the links work, then start working on the research. Don’t Merge or do a Pull Request until we do it together.
+
