@@ -1,6 +1,5 @@
-# Ceaser-Cipher
-
-Historical context
+## Ceaser Cipher
+# Historical context
 
 When was this cipher used? Who used it?
 
