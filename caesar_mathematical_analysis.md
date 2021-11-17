@@ -2,8 +2,21 @@
 
 Mathematical Analysis
 
-How many possible keys or codes could there be? How would you attempt to decode this message if you didn't have a key. What is the mathematical complexity to solve the code?
+There are only 25 possible keys, making Caesar ciphers susceptible to brute force attacks, where the person or computer trying to decode tries each possible combination of letters.
 
-Your final presentation should be given to the class as a github repo with visuals and supporting information. This is a big assignment so be prepared to answer questions and give a complete picture of the cipher, it's use, and historical context.
+Caesar code replaces a letter with an inverse alphabet shift. It uses substitution, the letters in the alphabet are shifted by some amount of spaces to get an encoding alphabet. For example, a Caesar cipher with a shift of 1 would encode an A as a B, an M as an N, and a Z as an A, and so on.
 
-Create a fork of the project repo, all of your files should be named the first name of your cipher and then the purpose (caesar_history.md). Create links to the other 4 pages (the first page is historical context), make sure all the links work, then start working on the research. Don’t Merge or do a Pull Request until we do it together.
+In an equation it can be described as
+E_n(x)=(x+n)mod\ 26  
+(Encryption Phase with shift n)
+
+Here is an example where it is shifted by 3:
+Normal Alphabet | Caesar Alphabet (Shifted 3)
+------------ | -------------
+ABCDEFGHIJKLMNOPQRSTUVWXYZ | DEFGHIJKLMNOPQRSTUVWXYZABC
+
+How would you attempt to decode if you didn't have a key:
+
+
+
+
