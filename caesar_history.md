@@ -13,12 +13,12 @@
 
   Because of how easy it is to encrypt and decrypt, its still used as an intro level cipher. So many amateur cryptologists end up using this cipher, not only that but the ROT13 system still has use for it.
 
-## [Mechanics](/caesar_mechanics.md)
+## [Mechanics](https://github.com/Evan-Mohan/Caesar-Cipher/blob/mechanics/caesar_mechanics.md)
 
-## [Mathematical Analysis](/caesar_mathematical_analysis.md)
+## [Mathematical Analysis](https://github.com/Evan-Mohan/Caesar-Cipher/blob/mathematical-analysis/caesar_mathematical_analysis.md)
 
-## [Computer Code](/caesar_computer_code.md)
+## [Computer Code](https://github.com/Evan-Mohan/Caesar-Cipher/blob/computer-code/caesar_computer_code.md)
 
-## [Final Analysis](/caesar_final_analysis.md)
+## [Final Analysis](https://github.com/Evan-Mohan/Caesar-Cipher/blob/final-analysis/caesar_final_analysis.md)
 
 Create a fork of the project repo, all of your files should be named the first name of your cipher and then the purpose (caesar_history.md). Create links to the other 4 pages (the first page is historical context), make sure all the links work, then start working on the research. Don’t Merge or do a Pull Request until we do it together.
