@@ -1,8 +1,24 @@
-## Ceaser Cipher
-# Historical context
+# Ceaser Cipher
+## Historical context
 
-When was this cipher used? Who used it?
+### Who used it?
 
-Your final presentation should be given to the class as a github repo with visuals and supporting information. This is a big assignment so be prepared to answer questions and give a complete picture of the cipher, it's use, and historical context.
+  The Ceaser Cipher is named after Julius Ceasar, who according to documents used this specific cipher when he wanted to protect messages of military significance.
+
+![Julius Caesar](https://cdn.britannica.com/11/196711-050-FA58D50D/Julius-Caesar-marble-sculpture-Andrea-di-Pietro.jpg)
+
+### When was this cipher used? 
+
+  How effective this cupher was is unknown, but considering that most people werent literate, it is presumed to have been reasonably secured. A early version was made around when Caesar was born, however when he got his hands on it he changed it a bit, and along with his popularity it was rebranded as his. Since we have a rough start day, I can say that there really is no end date. 
+
+  Because of how easy it is to encrypt and decrypt, its still used as an intro level cipher. So many amateur cryptologists end up using this cipher, not only that but the ROT13 system still has use for it.
+
+## [Mechanics](/caesar_mechanics.md)
+
+## [Mathematical Analysis](/caesar_mathematical_analysis.md)
+
+## [Computer Code](/caesar_computer_code.md)
+
+## [Final Analysis](/caesar_final_analysis.md)
 
 Create a fork of the project repo, all of your files should be named the first name of your cipher and then the purpose (caesar_history.md). Create links to the other 4 pages (the first page is historical context), make sure all the links work, then start working on the research. Don’t Merge or do a Pull Request until we do it together.
