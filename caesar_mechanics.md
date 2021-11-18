@@ -1,8 +1,12 @@
 # Ceaser-Cipher
+## Mechanics
 
-Mechanics
+### How does the cipher work? 
+It is quite easy to encode, concidering when this cipher was made. They didn't have a need for such an advance cipher when barely anyone was literate. The way the cipher works is just by shifting alphabetical letter to the left or right for a fixed amount. Caesar would typically move the letters 3 to the left
 
-How does the cipher work? Demo an encryption and decryption Is it symmetric, does the same process decrypt as encrypt?
+![Caesar Cipher](https://commons.wikimedia.org/wiki/File:Caesar_cipher_left_shift_of_3.svg#/media/File:Caesar_cipher_left_shift_of_3.svg)
+
+### Demo an encryption and decryption. Is it symmetric, does the same process decrypt as encrypt?
 
 Your final presentation should be given to the class as a github repo with visuals and supporting information. This is a big assignment so be prepared to answer questions and give a complete picture of the cipher, it's use, and historical context.
 
