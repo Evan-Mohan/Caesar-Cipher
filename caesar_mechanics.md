@@ -9,4 +9,4 @@ It is quite easy to encode, concidering when this cipher was made. They didn't h
 ### Demo an encryption and decryption. Is it symmetric, does the same process decrypt as encrypt?
 The Caesar Cipher is a good example of a symmetric encryption. Because the rule of shifting it a certain number of spaces stays the same for encrypting and decrypting, it is symetric. 
 
-![Encryption](encrypy.png)
+![Encryption](encrypt.png)
